@@ -1,0 +1,8 @@
+server:
+  port: 9098
+
+
+kafka:
+  producer:
+    host_1: 127.0.0.1
+    port_1: 9093
